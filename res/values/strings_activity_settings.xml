@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="title_activity_settings">Configuracion</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_social_recommendations">Activar \"Que cancion suena?\"</string>
+    <string name="pref_description_social_recommendations">Para mostrar la info de la cancion.</string>
+    <string name="pref_title_display_name">Nombre Usuario</string>
+    <string name="pref_default_display_name">Manolo Garcia</string>
+    <string name="pref_header_data_sync">Datos y Sincronizacion</string>
+    <string name="pref_title_sync_frequency">Frecuencia actualizacion</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">Enviar Contenido BD</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifaciones</string>
+    <string name="pref_title_new_message_notifications">Mensaje de notificacion</string>
+    <string name="pref_title_ringtone">Tono</string>
+    <string name="pref_ringtone_silent">Silencio</string>
+    <string name="pref_title_vibrate">Vibracion</string>
+</resources>

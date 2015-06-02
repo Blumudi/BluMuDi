@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blumudi</string>
+    <string name="title_section1">Inicio</string>
+    <string name="title_section2">Ajustes</string>
+    <string name="title_section3">Sobre Nosotros</string>
+    <string name="title_section4">Activar bluetooth</string>
+    <string name="title_section5">Chat</string>
+    <string name="title_sub_section1">Modo</string>
+    <string name="title_sub_section2">Historial</string>
+    <string name="title_sub_section3">Favoritos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+	
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <!-- 
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to </string>
+    <string name="title_not_connected">not connected</string> -->
+    
+    <string name="not_connected">No estas conectado a un dispositivo</string>
+    <string name="bt_not_enabled_leaving">Bluetooth no fue activado. Saliendo de la app.</string>
+    <string name="title_connecting">conectando...</string>
+    <string name="title_connected_to">conectado a </string>
+    <string name="title_not_connected">no conectado</string>
+	
+    <!--  DeviceListActivity -->
+    <!-- 
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string> -->
+    
+    <string name="scanning">escaneando dispositivos...</string>
+    <string name="select_device">selecciona un dispositivo al que conectar</string>
+    <string name="none_paired">Ningun dispositivo se ha sincronizado</string>
+    <string name="none_found">Ningun dispositivo encontrado</string>
+    <string name="title_paired_devices">Dispositivos sincronizados</string>
+    <string name="title_other_devices">Otros dispositivos disponibles</string>
+    <string name="button_scan">Escanear dispositivos</string>
+
+    <!-- Options Menu -->
+    <!-- 
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string> -->
+    <string name="secure_connect">Conectar un dispositivo - Seguro</string>
+    <string name="insecure_connect">Conectar un dispositivo - Inseguro</string>
+    <string name="discoverable">Hacer visible</string>
+    
+    
+    
+</resources>

@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.drawer.modo"
+    >
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_vertical" />
+
+    <Button
+        android:id="@+id/buttonActBluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Activar Bluetooth" />
+
+    <Button
+        android:id="@+id/buttonDeactBluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="Desactivar Bluetooth" />
+    
+    <View
+	    android:layout_width="fill_parent"
+	    android:layout_height="1dp"
+	    android:background="@android:color/darker_gray"/>
+<!--
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.example.drawer.BluetoothConnection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" /> -->
+
+</LinearLayout>

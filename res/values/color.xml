@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background_light">#FFFFFF</color>
+    <color name="menu_list_separator_line">#A11A11</color>
+    <color name="transparent">#F09F09</color>
+    <color name="triangle">#F09F09</color>
+    <color name="listsColor">#81d4fa</color>
+    
+</resources>
